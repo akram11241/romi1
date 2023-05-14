@@ -17,7 +17,7 @@ from rich import pretty
 from rich.text import Text as tekz
 import time
 from datetime import date
-from datetime import datetime
+from  import datetime
 from time import sleep
 from time import sleep as waktu
 pretty.install()
@@ -373,9 +373,9 @@ if __name__=='__main__':
     except:pass
     try:os.mkdir('CP')
     except:pass
-    try:os.mkdir('DUMP')
+    
     except:pass
     try:os.system('touch .prox.txt')
-    except:pass
-    #approval()
-    menu()
+    excep
+
+    
